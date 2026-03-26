@@ -1,4 +1,11 @@
-## Hi there 👋
+                                                                                ### Hi, I'm Sibu 👋
 
-### [Data Analysis Portfolio](https://github.com/sibu-alt/sibu-alt-portfolio-.github.io)
-![Language Badge](https://img.shields.io/badge/language-Python-blue)
+                                                                        # Physics Student, Data analyst
+
+# Technical skills:
+        * Data analysis
+        * CFD analysis
+        * Python (pandas, matplotlib)
+        * IoT (arduino, ESP32)
+
+
