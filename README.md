@@ -1,11 +1,13 @@
-                                                                                ### Hi, I'm Sibu 👋
+# Hi, I'm Sibu
+**Physics Student | Data analyst | Simulation Enthusiast**
 
-                                                                        # Physics Student, Data analyst
+## 🔧 Technical Skills
+- **Data Analysis**: Python (pandas, matplotlib)
+- **CFD Analysis**: OpenFOAM, mesh generation
+- **IoT**: Arduino, ESP32
 
-# Technical skills:
-        * Data analysis
-        * CFD analysis
-        * Python (pandas, matplotlib)
-        * IoT (arduino, ESP32)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-blue)
 
+![Sibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibu-alt&show_icons=true&theme=radical)
 
